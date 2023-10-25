@@ -1,1 +1,1 @@
-# Projeto-Landing-Page-Arquiterura
+# Projeto-Landing-Page-Arquitetura
